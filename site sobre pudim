@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pudim.com.br - Versão Moderna</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Pudim</h1>
+        <p>O doce mais amado do Brasil </p>
+    </header>
+
+    <section class="hero">
+        <img src="https://images.unsplash.com/photo-1604908177079-3b6b9d9e4ba5" alt="Pudim">
+    </section>
+
+    <section class="sobre">
+        <h2>Sobre o Pudim</h2>
+        <p>
+            O pudim é uma das sobremesas mais tradicionais da culinária brasileira.
+            Feito com leite condensado, ovos e açúcar caramelizado, ele conquista gerações.
+        </p>
+    </section>
+
+    <section class="historia">
+        <h2> História do Pudim</h2>
+        <p>
+            O pudim tem origem na Europa medieval. A palavra "pudding" vem do inglês antigo.
+            No Brasil, a receita ganhou fama com a popularização do leite condensado no século XX.
+        </p>
+    </section>
+
+    <section class="curiosidades">
+        <h2> Curiosidades</h2>
+        <ul>
+            <li>O Brasil tem uma das versões mais famosas do mundo.</li>
+            <li>O pudim pode ser feito sem forno, na geladeira.</li>
+        </ul>
+    </section>
+
+    <section class="compartilhar">
+        <h2>Compartilhe </h2>
+        <div class="botoes">
+            <a href="#" class="btn facebook">Facebook</a>
+            <a href="#" class="btn twitter">Twitter</a>
+            <a href="#" class="btn whatsapp">WhatsApp</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>Projeto acadêmico - Recriação moderna do pudim.com.br</p>
+        <p>Desenvolvido por luiz - 2026</p>
+    </footer>
+
+</body>
+</html>
